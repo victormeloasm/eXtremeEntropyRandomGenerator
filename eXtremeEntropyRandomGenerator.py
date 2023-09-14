@@ -1,6 +1,6 @@
 # This program was conceived and crafted by Víctor Duarte Melo on 14/09/2023 - Brazil. If you intend to use or modify it, please provide proper credits. 
 # Building the structure and coding this project wasn't an easy task; it involved countless hours of testing and an entire night of planning. Please use it responsibly.
-#Contact: victormeloasm@gmail.com
+# Contact: victormeloasm@gmail.com
 
 
 
