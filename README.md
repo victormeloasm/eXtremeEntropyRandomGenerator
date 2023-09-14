@@ -99,7 +99,6 @@ Upon completion, the program cleans up the generated data from memory, ensuring 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
 eXtremeEntropyRandomGenerator represents an exciting exploration into the world of randomness, entropy, and data fusion. It underscores the significance of entropy in data generation, highlighting its relevance in securing sensitive information. The fusion of audio and visual data from radio static noise and CRT static noise introduces new possibilities for data fusion and multi-sensory applications. This project serves as a captivating experiment in randomness, reminding us that randomness is not just a mathematical concept; it's a valuable resource with real-world applications in data security and beyond.
 
