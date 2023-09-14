@@ -54,6 +54,7 @@ To run this project, you need to have Python installed on your system. Follow th
 
 ![Using](Generator.png)
 
+
 <video width="320" height="240" controls>
   <source src="video_filename.mp4" type="video/mp4">
   Your browser does not support the video tag.
