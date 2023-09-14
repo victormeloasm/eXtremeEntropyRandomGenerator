@@ -1,3 +1,5 @@
-numpy==1.21.2
-opencv-python-headless==4.5.3.56
-PyAudio==0.2.11
+comtypes==1.2.0
+numpy==1.25.2
+opencv-python==4.8.0.76
+PyAudio==0.2.13
+pywifi==1.1.12
