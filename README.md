@@ -55,7 +55,7 @@ To run this project, you need to have Python installed on your system. Follow th
 ![Using](Generator.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=17MMJY9gkv4" frameborder="0" allowfullscreen></iframe>
+
 
 
 ### Generating Random Numbers
